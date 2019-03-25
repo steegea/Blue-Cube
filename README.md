@@ -2,4 +2,4 @@
 
 A SQL database for a fictional movie rental company that is similar to Redbox.
 
-Files are located under the branch called **main-branch**.
+Developed using **Oracle SQL Developer**, the files are located under the branch called **main-branch**.
